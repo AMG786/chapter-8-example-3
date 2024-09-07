@@ -11,6 +11,7 @@
 #       ./scripts/build-image.sh
 #
 
+
 set -u # or set -o nounset
 : "$CONTAINER_REGISTRY"
 : "$VERSION"
