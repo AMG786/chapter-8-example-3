@@ -13,7 +13,6 @@ if (!process.env.PORT) {
 // Extracts the PORT environment variable.
 //
 const PORT = process.env.PORT;
-
 //
 // Registers a HTTP GET route for video streaming.
 //
